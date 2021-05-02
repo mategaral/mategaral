@@ -1,10 +1,5 @@
 ### Holaas! 👋
 
-<!--
-**Teo1997/Teo1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ### Soy Ingeniero Informatico, con 2 años de experiencia en procesos ETL y business intelligent, actualmente estoy trabanado para Seguros Suramericana en el area de BI, me apaciona la tecnologia y siempre estoy aprendiendo cosas nuevas, espero algun dia convertirme en data sciencie.
 
 
@@ -26,5 +21,3 @@ Here are some ideas to get you started:
 ### - 📸 Instagram: https://www.instagram.com/teo199710/?hl=es-la
 ### - 👱‍♂️ Facebook: https://www.facebook.com/teo199710/
 ### - 👌 Twitter: https://twitter.com/mateo199710
-
--->
