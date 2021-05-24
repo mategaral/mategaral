@@ -1,6 +1,6 @@
 ### Holaas! 👋
 
-### Soy Ingeniero informático, con 2 años de experiencia en procesos ETL y business intelligent, actualmente estoy trabajando para Seguros Suramericana en el área de BI, me apasiona la tecnología y siempre estoy aprendiendo cosas nuevas, espero algún día convertirme en data sciencie.
+### Soy Ingeniero informático, con 2 años de experiencia en procesos ETL y business intelligent, actualmente estoy trabajando para Seguros Suramericana en el área de BI, me apasiona la tecnología y siempre estoy aprendiendo cosas nuevas, espero algún día convertirme en un gran cientifico de datos.
 
 
 ### - 🔭 Actualmente estoy trabajando en Seguros Suramericana.
@@ -12,7 +12,7 @@
 ### - 👌 Twitter: https://twitter.com/mateo199710
 
 
-### I am a Computer Engineer, with 2 years of experience in ETL and business intelligent processes, I am currently working for Seguros Suramericana in the BI area, I am passionate about technology and I am always learning new things, I hope one day to become a data science.
+### I am a Computer Engineer, with 2 years of experience in ETL and business intelligent processes, I am currently working for Seguros Suramericana in the BI area, I am passionate about technology and I am always learning new things, I hope one day to become a great data scientist.
 
 
 ### - 🔭 I am currently working at Seguros Suramericana.
