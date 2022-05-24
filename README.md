@@ -5,13 +5,13 @@
 ### Me apasiona que el resultado de convertir datos facilite la toma de decisiones y aumente la efectividad de la organización, además de eso soy amante del aprendizaje y las nuevas tecnologías.
 
 
-### - 🔭 Actualmente estoy trabajando en Datalytics.
-### - 🌱 Aprendo cada día en Platzi 
-### - 📫 Me puedes encontrar en:
-### - 👨‍💻 Linkedin: https://www.linkedin.com/in/mateo-garcia-alvarez-4a453b1b2/
-### - 📸 Instagram: https://www.instagram.com/teo199710/?hl=es-la
-### - 👱‍♂‍ Facebook: https://www.facebook.com/teo199710/
-### - 👌 Twitter: https://twitter.com/mateo199710
+###  🔭 Actualmente estoy trabajando en Datalytics.
+###  🌱 Aprendo cada día en Platzi 
+###  📫 Me puedes encontrar en:
+###  👨‍💻 Linkedin: https://www.linkedin.com/in/mateo-garcia-alvarez-4a453b1b2/
+###  📸 Instagram: https://www.instagram.com/teo199710/?hl=es-la
+###  👱‍♂‍ Facebook: https://www.facebook.com/teo199710/
+###  👌 Twitter: https://twitter.com/mateo199710
 
 
 ### Hello! 👋
@@ -21,10 +21,10 @@
 ### I am passionate that the result of converting data facilitates decision making and increases the effectiveness of the organization, in addition to that I am a lover of learning and new technologies.
 
 
-### - 🔭 I am currently working on Datalytics.
-### - 🌱 I learn every day at Platzi
-### - 📫 You can find me at:
-### - 👨‍💻 Linkedin: https://www.linkedin.com/in/mateo-garcia-alvarez-4a453b1b2/
-### - 📸 Instagram: https://www.instagram.com/teo199710/?hl=es-la
-### - 👱‍♂‍ Facebook: https://www.facebook.com/teo199710/
-### - 👌 Twitter: https://twitter.com/mateo199710
+###  🔭 I am currently working on Datalytics.
+###  🌱 I learn every day at Platzi
+###  📫 You can find me at:
+###  👨‍💻 Linkedin: https://www.linkedin.com/in/mateo-garcia-alvarez-4a453b1b2/
+###  📸 Instagram: https://www.instagram.com/teo199710/?hl=es-la
+###  👱‍♂‍ Facebook: https://www.facebook.com/teo199710/
+###  👌 Twitter: https://twitter.com/mateo199710
