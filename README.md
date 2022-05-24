@@ -1,6 +1,8 @@
 ### Holaas! 👋
 
-### Soy Ingeniero informático, con 2 años de experiencia en procesos ETL y business intelligent, actualmente estoy trabajando para Datalytics como Consultor en Inteligencia de negocios, me apasiona la tecnología y siempre estoy aprendiendo cosas nuevas, espero algún día convertirme en un gran cientifico de datos.
+### Soy Ingeniero informático con un enfoque en datos, actualmente trabajando como ingeniero de datos en Datalytics. Diseño y genero modelos de datos que permitan que la información extraída de una o varias fuentes, tenga una buena calidad de datos para así tener una mejor interpretación de resultados y toma de decisiones.
+
+Me apasiona que el resultado de convertir datos facilite la toma de decisiones y aumente la efectividad de la organización, además de eso soy amante del aprendizaje y las nuevas tecnologías.
 
 
 ### - 🔭 Actualmente estoy trabajando en Datalytics.
@@ -14,7 +16,9 @@
 
 ### Hello! 👋
 
-### I am a Computer Engineer, with 2 years of experience in ETL and business intelligent processes, I am currently working for Datalytics as a Business Intelligence Consultant, I am passionate about technology and I am always learning new things, I hope one day to become a great scientist of data.
+### I'm a Computer Engineer with a focus on data, currently working as a Data Engineer at Datalytics. I design and generate data models that allow the information extracted from one or several sources to have good data quality in order to have a better interpretation of results and decision making.
+
+I am passionate that the result of converting data facilitates decision making and increases the effectiveness of the organization, in addition to that I am a lover of learning and new technologies.
 
 
 ### - 🔭 I am currently working on Datalytics.
